@@ -122,8 +122,8 @@
 					"recurrence": {
 						"frequency": "Hour",
 						"interval": 1,
-						"startTime": "2024-12-30T01:45:00Z",
-						"timeZone": "UTC"
+						"startTime": "2024-12-29T22:49:00",
+						"timeZone": "E. South America Standard Time"
 					}
 				}
 			},
